@@ -1,0 +1,44 @@
+{
+    "name": "SmarterServices",
+    "description": "<p>The SmarterMeasure Learning Readiness Indicator is a web-based tool which assesses a learner's likelihood for succeeding in an online and\/or technology rich learning program. SmarterMeasure indicates the degree to which an individual student possesses attributes, skills and knowledge that contribute to success.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/smarter-measure-logo.png",
+    "tags": [
+        "api not found",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/smarterservices\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SmarterServices",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/smarter-measure-logo.png",
+            "humanURL": "http:\/\/www.smartermeasure.com\/about\/integration\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/smarterservices-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.smarterservices.com\/blog\/feeds\/rss.cfm"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/smarterservices"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.smartermeasure.com\/about\/integration\/api\/"
+        }
+    ]
+}
